@@ -3,4 +3,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 Link [Here](http://fabio-mazza.com)
 
 ## Lecture List
-* BE01 Section Introduction
+* BT01 Section Introduction
